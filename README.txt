@@ -1,0 +1,1 @@
+My Solutions for HackerRank 30 days of Code
